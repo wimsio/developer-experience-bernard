@@ -54,7 +54,7 @@ We believe in transparency and sharing our personal experiences. These interview
 
 ```
 developer-experience/
-├── new-contributor/
+├── contributor/
 │   ├── beginner/
 │   │   ├── tools/
 │   │   │   ├── off-chain/
